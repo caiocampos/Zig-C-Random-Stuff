@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+zig run c_math.zig -lc
